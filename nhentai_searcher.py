@@ -1,6 +1,6 @@
-#Create users seesonrise for @wich1
+#Create users seesonrise for @tunchichi
 #My github github.com/seesonrise
-#Github @wich1 github.com/wich1
+#Github @tunchichi github.com/tunchichi
 #This module has a Copyright please do not copy this code
 
 
