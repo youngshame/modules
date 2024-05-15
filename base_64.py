@@ -7,7 +7,7 @@ from base64 import b64encode, b64decode
 
 @loader.tds
 class base64Mod(loader.Module):
-	"""Кодирование и декодирование base:64 (by wich)"""
+	"""Кодирование и декодирование base:64 (by tunchichi)"""
 	strings = {"name": "base:64"}
 	@loader.owner
 	async def b64cmd(self, message):
