@@ -1,6 +1,6 @@
 from .. import loader, utils
 
-big_rat_url = "https://bigrat.monster/media/bigrat.png"
+big_rat_url = "https://s.iimg.su/s/19/AwOfoaJB8fpwKrje6km6dYZ8UE7LS9M05nl50ggD.jpg"
 
 
 @loader.tds
