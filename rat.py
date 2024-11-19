@@ -15,7 +15,7 @@ class BigRatMod(loader.Module):
             return await message.edit("<b>Please specify who to rat.</b>")
 
         msg = await utils.answer(message, "<b>Sending big rat...</b>")
-        await message.client.send_file(chat, big_rat_url)
+        await message.client.send_file(target, big_rat_url)
         await utils.answer(msg, "<b>Sent big rat successfully!</b>")
 
     @staticmethod
