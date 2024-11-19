@@ -1,6 +1,6 @@
 from .. import loader, utils
 
-big_rat_url = "https://s.iimg.su/s/19/AwOfoaJB8fpwKrje6km6dYZ8UE7LS9M05nl50ggD.jpg"
+big_rat_url = "https://cpad.ask.fm/7e5/139b5/4032/4587/ba8c/14bc66f44ef1/large/244392.jpg"
 
 
 @loader.tds
