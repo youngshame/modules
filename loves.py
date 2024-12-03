@@ -1,7 +1,6 @@
 # created by YoungShame
 
 import asyncio
-from .. import loader, utils
 from asyncio import sleep
 
 from .. import loader, utils
