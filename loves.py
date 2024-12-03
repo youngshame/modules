@@ -3,12 +3,14 @@
 from .. import loader, utils
 from asyncio import sleep
 
+from .. import loader, utils
+
 @loader.tds
 class LOvesMod(loader.Module):
 	"""LOves"""
 	strings = {'name': 'LOves'}
 	@loader.owner
-	async def lovescmd(self, message_id):
+	async def lovescmd(self, message):
 		await utils.answer(message, 'Я Тебя Люблю❤️')
 		await asyncio.sleep(1)
 		await utils.answer(message, '    Я  Тебя Люблю❤️')
