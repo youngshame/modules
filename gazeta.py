@@ -9,7 +9,7 @@ class GazetaMod(loader.Module):
 	"""Мем (Китайская газета)"""
 	strings = {'name': 'Gazeta'}
 	@loader.owner
-	async def gazetacmd(self, message_id):
+	async def gazetacmd(self, message):
 		await utils.answer(message, " Китайская газета -Хуй вам, хуй нам- ")
 		await asyncio.sleep(4)
 		await utils.answer(message, " сообщает - что Француский король ")
