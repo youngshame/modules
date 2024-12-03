@@ -1,4 +1,4 @@
-#created by @tunchichi
+#created by @YoungShame
 
 from .. import loader, utils
 from asyncio import sleep
